@@ -97,8 +97,7 @@ class EBirdTools:
         df = df.explode('howMany')
         df = df.drop('howMany', axis=1)
         # Clean up
-        df = df.reset_index()
-        df = df.drop('index', axis=1)
+        df = df.reset_index(drop=True)
         return df
     
     def load_data(filename):

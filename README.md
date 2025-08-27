@@ -1,7 +1,7 @@
 # Setup
 Your directory structure should look like:
 ```
-data/	# Training data from by GetTrainData.ipynb. The files can be found at:
+data/	# Training data from GetTrainData.ipynb. The files can be found at:
 		# https://drive.google.com/drive/u/2/folders/0AKCoaEnqOZeuUk9PVA
 sb/
 ebird_api.key	# This is excluded from the repo via git ignore. This is only

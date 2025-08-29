@@ -20,9 +20,7 @@ Ethan:
 - GetTrainData.ipynb
 - NaiveClusterDemo.ipynb
 - ebirdtools.py
-- sb/sb01-sb05
-- sb/sb06_kmeanstest.ipynb
-- sb/sb07_dbscantest.ipynb
+- sb/sb01-sb07
 
 Inderpreet:
 - sb/sb08_knn_temp_distance_anomalies_hotspots.ipynb
